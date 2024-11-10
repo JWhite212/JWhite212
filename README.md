@@ -11,10 +11,3 @@ I hold both a BSc (Hons) in Computer Science (Upper Second Class Honours, 2:1) a
 + Software development and backend engineering
 
 🌱 About This Account: Here you'll find my personal projects, applications, and other developments, showcasing my journey as I build, learn, and refine my skills.
-
-## Here is some of the projects I've worked on:
-+ [My Portfolio Website](https://jamie-white-portfolio.vercel.app "External Website Link") and the code for it here https://github.com/JWhite212/Portfolio-Website
-
-## Here are the tech stacks I know and use 🛠
-
-

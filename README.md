@@ -1,38 +1,59 @@
 # 👋 Hi there, I'm Jamie White
 
-I'm a passionate and curious programmer with a strong foundation in computer science and a particular interest in full-stack and backend development.
+I'm a passionate and curious programmer with a strong foundation in computer science and a particular interest in backend development, full-stack applications, and system integration.
 
-🎓 I hold a BSc (Hons) in Computer Science (2:1) and am currently completing an MSc in Advanced Computer Science at the University of Kent, where I’ve focused on mobile development, API integration, and cloud-based solutions.
+🎓 I hold a BSc (Hons) in Computer Science (2:1) and am currently completing an MSc in Advanced Computer Science at the University of Kent. My work spans mobile apps, IoT, RESTful APIs, and cloud platforms.
 
-💼 **Actively seeking**: Graduate / Junior Software Engineer roles where I can apply my technical skills, contribute to meaningful projects, and continue to grow as a developer.
+💼 **Actively seeking**: Graduate / Junior Software Engineer roles where I can apply my skills, collaborate in meaningful teams, and continue growing as a developer.
 
 ---
 
 ## 🔧 Tech Interests & Strengths
 
-- Full-stack web & mobile development  
-- Backend engineering and REST API integration  
-- Cloud services (Firebase, Wix Headless Functions)  
-- Database design (PostgreSQL, Firestore)  
-- Building accessible, user-friendly applications  
-- Writing clean, well-documented, testable code
+- Full-stack development (Java, TypeScript, React, Next.js, Node.js, Flutter)
+- Backend engineering & API integration (REST, Firebase, Wix Headless)
+- Cloud & mobile solutions (Firebase, Dart)
+- Data & database management (PostgreSQL, Firestore, MongoDB)
+- Embedded & IoT systems (Arduino, C++, real-time sensor input)
 
 ---
 
-## 🛠️ What You'll Find Here
+## 🚀 Featured Projects
 
-This GitHub is home to my personal projects and ongoing work, where I explore new tools, frameworks, and ideas. Recent highlights include:
+### 🔹 [Snackless App](https://github.com/JWhite212/SnacklessApp)
+A cross-platform mobile app built in Flutter to deliver a 30-day behavioural programme. Features secure authentication, Wix CMS syncing, audio playback, daily tracking, and data persistence.
 
-- 🌱 **Snackless App**: A Flutter-based cross-platform app syncing daily content from Wix CMS, with secure login, audio playback, and persistent user data.
-- 🌿 **IoT Plant Watering System**: An Arduino-based automation project using real-time sensors, machine learning, and a responsive web dashboard.
-- 🧠 **Java OOP Projects**: Including a fully documented Vending Machine simulator with robust test coverage.
+### 🔹 [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
+An Arduino and C++ based embedded system using real-time environmental sensors, ML classification, and PID control. Visualised with a live dashboard and alert system.
+
+### 🔹 [Portfolio Website](https://github.com/JWhite212/Portfolio-Website)
+My personal portfolio site, showcasing my work and projects. Built with React, Next.js, Tailwind CSS, and Framer Motion. [View Live](https://jamie-white-portfolio.vercel.app)
+
+### 🔹 [Java Vending Machine Simulator](https://github.com/JWhite212/VendingMachine)
+A Java-based OOP simulator demonstrating encapsulation, abstraction, inheritance, and polymorphism, with clean, testable code and documentation.
+
+---
+
+## 📊 GitHub Stats
+
+![Jamie White's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JWhite212&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JWhite212&layout=compact&theme=tokyonight)
+
+---
+
+## ✨ Contributions & Activity
+
+- 📆 Regular contributor to personal and academic projects
+- 🔍 Learning Spring Boot & clean architecture best practices
+- 📚 Building and documenting my MSc dissertation project in Flutter
+- 🛠️ Always experimenting with tools that enhance developer workflows
 
 ---
 
 ## 📫 Let's Connect
 
-- [Portfolio Website](https://jamie-white-portfolio.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/jamie-white-swe/)
-- [GitHub](https://github.com/JWhite212)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jamie-white-swe/)
+- 🌐 [Portfolio Website](https://jamie-white-portfolio.vercel.app)
+- 📧 Jamiecs@live.co.uk
 
-Thanks for visiting — feel free to explore and reach out!
+Thanks for stopping by!

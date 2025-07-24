@@ -36,9 +36,10 @@ A Java-based OOP simulator demonstrating encapsulation, abstraction, inheritance
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JWhite212&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JWhite212&layout=compact&theme=tokyonight) 
 
----
+
+[![wakatime](https://wakatime.com/badge/user/018ce40b-0939-4ca9-9936-b8700fec78e0/project/1b93071f-162b-446c-b64d-1ad9deaac1b8.svg)](https://wakatime.com/badge/user/018ce40b-0939-4ca9-9936-b8700fec78e0/project/1b93071f-162b-446c-b64d-1ad9deaac1b8)
 
 ## ✨ Contributions & Activity
 

@@ -2,7 +2,7 @@
 
 I'm a passionate and curious programmer with a strong foundation in computer science and a particular interest in backend development, full-stack applications, and system integration.
 
-Currently working as a Software and Solutions Engineer @QVCCS.
+🧑‍💻 Currently working as a Software and Solutions Engineer @QVCCS.
 
 🎓 I hold a BSc (Hons) in Computer Science (2:1) and am currently completing an MSc in Advanced Computer Science at the University of Kent. My work spans mobile apps, IoT, RESTful APIs, and cloud platforms.
 

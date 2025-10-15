@@ -4,7 +4,7 @@ I'm a passionate and curious programmer with a strong foundation in computer sci
 
 🧑‍💻 Currently working as a Software and Solutions Engineer @QVCCS.
 
-🎓 I hold a BSc (Hons) in Computer Science (2:1) and am currently completing an MSc in Advanced Computer Science at the University of Kent. My work spans mobile apps, IoT, RESTful APIs, and cloud platforms.
+🎓 I hold a BSc (Hons) in Computer Science (2:1) and a Distinction graded MSc in Advanced Computer Science from the University of Kent. My work spans mobile apps, IoT, RESTful APIs, and cloud platforms.
 
 💼 **Not actively seeking, but open to discussions**: Graduate / Junior Software Engineer roles where I can apply my skills, collaborate in meaningful teams, and continue growing as a developer.
 

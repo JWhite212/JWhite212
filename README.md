@@ -94,7 +94,7 @@ A modern SvelteKit 5 full-stack app for logging doses and tracking adherence ove
 ![Lucia](https://img.shields.io/badge/-Lucia-7B68EE?style=flat-square)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-[`View repository →`](https://github.com/JWhite212/medication-tracker)
+[`View repository →`](https://github.com/JWhite212/medication-tracker) · [`Live site ↗`](https://medication-tracker-jw.vercel.app)
 
 ---
 

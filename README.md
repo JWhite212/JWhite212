@@ -7,7 +7,7 @@
 *Building reliable, well-designed software — from cloud APIs and full-stack web apps to embedded firmware and on-device AI.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-white-swe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://jamie-white-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.jamiewhite.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jamiecs@live.co.uk)
 ![Location](https://img.shields.io/badge/United%20Kingdom-555555?style=for-the-badge&logo=googlemaps&logoColor=white)
 
@@ -94,7 +94,7 @@ A modern SvelteKit 5 full-stack app for logging doses and tracking adherence ove
 ![Lucia](https://img.shields.io/badge/-Lucia-7B68EE?style=flat-square)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-[`View repository →`](https://github.com/JWhite212/medication-tracker) · [`Live site ↗`](https://medication-tracker-jw.vercel.app)
+[`View repository →`](https://github.com/JWhite212/medication-tracker) · [`Live site ↗`](https://medication-tracker.jamiewhite.site/)
 
 ---
 
@@ -108,7 +108,7 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-[`View repository →`](https://github.com/JWhite212/Portfolio-Website) · [`Live site ↗`](https://jamie-white-portfolio.vercel.app)
+[`View repository →`](https://github.com/JWhite212/Portfolio-Website) · [`Live site ↗`](https://portfolio.jamiewhite.site/)
 
 ---
 

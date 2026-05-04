@@ -101,7 +101,7 @@ A modern SvelteKit 5 full-stack app for logging doses and tracking adherence ove
 ### [Portfolio-Website](https://github.com/JWhite212/Portfolio-Website)
 *Personal site, brutalist design, long-form case studies.*
 
-Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion micro-interactions, Server Actions for the contact form (via Resend), generated Open Graph images, and accessibility-first semantics. Hosts case studies that walk through the technical decisions behind each project.
+Next.js portfolio with a distinctive brutalist visual identity, Framer Motion micro-interactions, Server Actions for the contact form (via Resend), generated Open Graph images, and accessibility-first semantics. Hosts case studies that walk through the technical decisions behind each project.
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -113,14 +113,14 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ---
 
 ### [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
-*Embedded ML and PID control for autonomous plant care.*
+*Sensor-driven plant care automation on ESP32.*
 
-An Arduino / ESP32 system using real-time environmental sensors, lightweight on-device ML classification (logistic regression, KNN), and a PID control loop to keep soil moisture in a target band. Includes a live dashboard, mobile alerts, and documented hardware build instructions.
+An Arduino / ESP32 system that monitors soil moisture, temperature, humidity, ambient light, and water-tank level, then drives a water pump and grow light accordingly. Cloud telemetry publishes sensor readings to ThingSpeak on a 30-second cadence; a local 20×4 LCD shows live readings. All sensor reads, actuator control, and network I/O run cooperatively via TaskScheduler — no blocking calls in the main loop. WiFi credentials and ThingSpeak keys are stored in the ESP32 NVS partition, never compiled into the firmware.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 
 [`View repository →`](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
 
@@ -162,7 +162,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-white-swe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://jamie-white-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.jamiewhite.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jamiecs@live.co.uk)
 
 <sub>Thanks for stopping by.</sub>

@@ -113,14 +113,14 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ---
 
 ### [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
-*Embedded ML and PID control for autonomous plant care.*
+*Sensor-driven embedded automation for autonomous plant care.*
 
-An Arduino / ESP32 system using real-time environmental sensors, lightweight on-device ML classification (logistic regression, KNN), and a PID control loop to keep soil moisture in a target band. Includes a live dashboard, mobile alerts, and documented hardware build instructions.
+An ESP32 system that monitors capacitive soil-moisture probes, DHT11 temperature/humidity sensors, a BH1750 ambient-light sensor, and an HC-SR04 ultrasonic water-tank level sensor to drive a pump and grow light automatically. Sensor telemetry is published to ThingSpeak on a 30-second cadence. The firmware is written in Arduino C++, built with PlatformIO, and uses cooperative task scheduling via TaskScheduler so sensor reads, actuator control, and network I/O all run concurrently without blocking.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![ThingSpeak](https://img.shields.io/badge/-ThingSpeak-0072CE?style=flat-square)
 
 [`View repository →`](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
 
@@ -162,7 +162,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-white-swe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://jamie-white-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.jamiewhite.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jamiecs@live.co.uk)
 
 <sub>Thanks for stopping by.</sub>

@@ -68,10 +68,12 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 
 ## Featured projects
 
-### [meeting-mind](https://github.com/JWhite212/meeting-mind)
-*Privacy-first Teams transcription & AI summaries on macOS.*
+### [Context Recall](https://github.com/JWhite212/meeting-mind)
+*Privacy-conscious meeting recall on macOS with consented recordings.*
 
-A lightweight macOS daemon that records Microsoft Teams meetings, transcribes them locally with Whisper, and produces structured summaries via Claude or Ollama — fully offline-capable. Includes speaker diarisation, Notion / Obsidian export, and a clean YAML schema for downstream tooling.
+Context Recall is a local-first macOS meeting assistant that captures configured local audio sources, transcribes consented recordings with MLX Whisper, stores transcripts locally, and helps users recall decisions, action items, and context from previous meetings. It is built for user-controlled capture and privacy-conscious meeting recall, with professional consent-first workflows.
+
+Default development paths are documented as `./data/` for local transcript artefacts and `./logs/` for runtime logs.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square)
@@ -79,7 +81,7 @@ A lightweight macOS daemon that records Microsoft Teams meetings, transcribes th
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-[`View repository →`](https://github.com/JWhite212/meeting-mind)
+[`View repository →`](https://github.com/JWhite212/meeting-mind) · [`Case study ↗`](https://portfolio.jamiewhite.site/case-studies/context-recall)
 
 ---
 
@@ -153,7 +155,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 
 ## Currently
 
-- Building **meeting-mind** — improving speaker diarisation accuracy and shipping richer Obsidian / Notion export workflows.
+- Building **Context Recall** with local-first, user-controlled capture workflows and privacy-conscious meeting recall.
 - Deepening **Spring Boot** and **clean architecture** patterns to round out my JVM backend toolkit.
 - Exploring **native macOS tooling** and **on-device AI** workflows for productivity software.
 

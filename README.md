@@ -73,15 +73,13 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 
 Context Recall is a local-first macOS meeting assistant that captures configured local audio sources, transcribes consented recordings with MLX Whisper, stores transcripts locally, and helps users recall decisions, action items, and context from previous meetings. It is built for user-controlled capture and privacy-conscious meeting recall, with professional consent-first workflows.
 
-Default development paths are documented as `./data/` for local transcript artefacts and `./logs/` for runtime logs.
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square)
+![MLX Whisper](https://img.shields.io/badge/-MLX%20Whisper-412991?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-[`View repository →`](https://github.com/JWhite212/meeting-mind) · [`Case study ↗`](https://portfolio.jamiewhite.site/case-studies/context-recall)
+[`View repository →`](https://github.com/JWhite212/meeting-mind) · [`Case study ↗`](https://portfolio.jamiewhite.site/projects/context-recall)
 
 ---
 
@@ -115,14 +113,14 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ---
 
 ### [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
-*Embedded ML and PID control for autonomous plant care.*
+*Threshold-based sensor automation for plant care.*
 
-An Arduino / ESP32 system using real-time environmental sensors, lightweight on-device ML classification (logistic regression, KNN), and a PID control loop to keep soil moisture in a target band. Includes a live dashboard, mobile alerts, and documented hardware build instructions.
+An ESP32 system monitoring soil moisture, temperature, humidity, ambient light, and water-tank level, with automated threshold-based watering, RTC-scheduled grow-light control, and live cloud telemetry via ThingSpeak. Built with PlatformIO and Arduino C++. ML-driven scheduling and PID climate control are planned roadmap items, not yet implemented.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![ThingSpeak](https://img.shields.io/badge/-ThingSpeak-0078D4?style=flat-square)
 
 [`View repository →`](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
 
@@ -164,7 +162,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-white-swe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://jamie-white-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.jamiewhite.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jamiecs@live.co.uk)
 
 <sub>Thanks for stopping by.</sub>

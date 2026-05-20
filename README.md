@@ -68,16 +68,16 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 
 ## Featured projects
 
-### [meeting-mind](https://github.com/JWhite212/meeting-mind)
-*Privacy-first Teams transcription & AI summaries on macOS.*
+### [Context Recall](https://github.com/JWhite212/meeting-mind)
+*Privacy-first meeting transcription and AI summaries on macOS.*
 
-A lightweight macOS daemon that records Microsoft Teams meetings, transcribes them locally with Whisper, and produces structured summaries via Claude or Ollama — fully offline-capable. Includes speaker diarisation, Notion / Obsidian export, and a clean YAML schema for downstream tooling.
+A macOS application that records meeting audio, transcribes it locally using MLX Whisper on Apple Silicon, and produces structured summaries via Claude or Ollama — fully offline-capable. Includes a Tauri v2 + React frontend, FastAPI service layer, SQLite with FTS5 full-text search, and Notion/Obsidian export.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![MLX Whisper](https://img.shields.io/badge/-MLX%20Whisper-412991?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 [`View repository →`](https://github.com/JWhite212/meeting-mind)
 
@@ -113,14 +113,14 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ---
 
 ### [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
-*Embedded ML and PID control for autonomous plant care.*
+*Multi-sensor ESP32 firmware with cloud telemetry and automated watering.*
 
-An Arduino / ESP32 system using real-time environmental sensors, lightweight on-device ML classification (logistic regression, KNN), and a PID control loop to keep soil moisture in a target band. Includes a live dashboard, mobile alerts, and documented hardware build instructions.
+An Arduino/ESP32 system monitoring soil moisture, temperature, humidity, ambient light, and water-tank level to autonomously control a pump and grow light. Threshold-based watering with a cooldown guard and pump cutoff when the tank runs low. Telemetry published to ThingSpeak; credentials stored in ESP32 NVS — nothing sensitive is compiled into the firmware.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![ThingSpeak](https://img.shields.io/badge/-ThingSpeak-0076D6?style=flat-square)
 
 [`View repository →`](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
 
@@ -153,7 +153,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 
 ## Currently
 
-- Building **meeting-mind** — improving speaker diarisation accuracy and shipping richer Obsidian / Notion export workflows.
+- Building **Context Recall** — improving transcription accuracy and shipping richer Obsidian / Notion export workflows.
 - Deepening **Spring Boot** and **clean architecture** patterns to round out my JVM backend toolkit.
 - Exploring **native macOS tooling** and **on-device AI** workflows for productivity software.
 
@@ -162,7 +162,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-white-swe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://jamie-white-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.jamiewhite.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jamiecs@live.co.uk)
 
 <sub>Thanks for stopping by.</sub>

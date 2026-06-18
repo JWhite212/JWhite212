@@ -113,14 +113,14 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ---
 
 ### [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
-*Embedded ML and PID control for autonomous plant care.*
+*Sensor-driven automation for autonomous plant care.*
 
-An Arduino / ESP32 system using real-time environmental sensors, lightweight on-device ML classification (logistic regression, KNN), and a PID control loop to keep soil moisture in a target band. Includes a live dashboard, mobile alerts, and documented hardware build instructions.
+An Arduino / ESP32 system using real-time environmental sensors (soil moisture, temperature, humidity, light), threshold-based watering logic with moving-average smoothing, and RTC-synchronised scheduling for lighting and temperature management. Data is logged to ThingSpeak for remote monitoring.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![ThingSpeak](https://img.shields.io/badge/-ThingSpeak-3090C7?style=flat-square)
 
 [`View repository →`](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
 

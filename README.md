@@ -43,15 +43,16 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
 
 **Data & infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -59,10 +60,10 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
 
 ---
 
@@ -113,14 +114,14 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ---
 
 ### [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
-*Embedded ML and PID control for autonomous plant care.*
+*Sensor-driven automation for autonomous plant care.*
 
-An Arduino / ESP32 system using real-time environmental sensors, lightweight on-device ML classification (logistic regression, KNN), and a PID control loop to keep soil moisture in a target band. Includes a live dashboard, mobile alerts, and documented hardware build instructions.
+An ESP32-based system using capacitive soil moisture sensors, DHT11 temperature/humidity probes, and a BH1750 light sensor to automate watering and grow light scheduling. Cooperative multitasking via TaskScheduler, cloud telemetry to ThingSpeak, and safety interlocks for cooldown timing and water tank level.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 
 [`View repository →`](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
 
@@ -154,15 +155,15 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 ## Currently
 
 - Building **meeting-mind** — improving speaker diarisation accuracy and shipping richer Obsidian / Notion export workflows.
-- Deepening **Spring Boot** and **clean architecture** patterns to round out my JVM backend toolkit.
 - Exploring **native macOS tooling** and **on-device AI** workflows for productivity software.
+- Refining engineering quality across projects through stronger testing, CI pipelines, and architectural documentation.
 
 ---
 
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-white-swe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://jamie-white-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.jamiewhite.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jamiecs@live.co.uk)
 
 <sub>Thanks for stopping by.</sub>

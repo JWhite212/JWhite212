@@ -69,14 +69,14 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 ## Featured projects
 
 ### [meeting-mind](https://github.com/JWhite212/meeting-mind)
-*Privacy-first Teams transcription & AI summaries on macOS.*
+*Privacy-first Teams transcription and AI summaries on macOS.*
 
-A lightweight macOS daemon that records Microsoft Teams meetings, transcribes them locally with Whisper, and produces structured summaries via Claude or Ollama — fully offline-capable. Includes speaker diarisation, Notion / Obsidian export, and a clean YAML schema for downstream tooling.
+A macOS desktop app (Tauri v2 + React) paired with a Python daemon that detects Teams meetings, captures dual audio via BlackHole, transcribes on-device with MLX Whisper (Apple Silicon), and generates structured summaries via Claude or Ollama. Includes energy-based speaker diarisation, full-text search, and Notion / Obsidian export.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square)
+![Tauri](https://img.shields.io/badge/-Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![MLX Whisper](https://img.shields.io/badge/-MLX%20Whisper-412991?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 [`View repository →`](https://github.com/JWhite212/meeting-mind)
@@ -113,14 +113,14 @@ Next.js 16 portfolio with a distinctive brutalist visual identity, Framer Motion
 ---
 
 ### [Automatic IoT Plant Watering System](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
-*Embedded ML and PID control for autonomous plant care.*
+*Sensor-driven plant automation with cooperative scheduling.*
 
-An Arduino / ESP32 system using real-time environmental sensors, lightweight on-device ML classification (logistic regression, KNN), and a PID control loop to keep soil moisture in a target band. Includes a live dashboard, mobile alerts, and documented hardware build instructions.
+An ESP32-based system that monitors soil moisture, temperature, humidity, light, and water-tank level, then drives a pump and grow light based on real-time readings. Uses cooperative task scheduling via TaskScheduler, ThingSpeak cloud telemetry, and NVS-based credential management. Built with PlatformIO.
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square)
+![PlatformIO](https://img.shields.io/badge/-PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
 
 [`View repository →`](https://github.com/JWhite212/Automatic-IOT-Plant-Watering-System)
 
@@ -162,7 +162,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-white-swe/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://jamie-white-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.jamiewhite.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jamiecs@live.co.uk)
 
 <sub>Thanks for stopping by.</sub>

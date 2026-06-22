@@ -68,7 +68,7 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 
 ## Featured projects
 
-### [meeting-mind](https://github.com/JWhite212/meeting-mind)
+### [context-recall](https://github.com/JWhite212/context-recall)
 *Privacy-first Teams transcription & AI summaries on macOS.*
 
 A lightweight macOS daemon that records Microsoft Teams meetings, transcribes them locally with Whisper, and produces structured summaries via Claude or Ollama — fully offline-capable. Includes speaker diarisation, Notion / Obsidian export, and a clean YAML schema for downstream tooling.
@@ -79,7 +79,7 @@ A lightweight macOS daemon that records Microsoft Teams meetings, transcribes th
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-[`View repository →`](https://github.com/JWhite212/meeting-mind)
+[`View repository →`](https://github.com/JWhite212/context-recall)
 
 ---
 
@@ -153,7 +153,7 @@ An Arduino / ESP32 system using real-time environmental sensors, lightweight on-
 
 ## Currently
 
-- Building **meeting-mind** — improving speaker diarisation accuracy and shipping richer Obsidian / Notion export workflows.
+- Building **context-recall** — improving speaker diarisation accuracy and shipping richer Obsidian / Notion export workflows.
 - Deepening **Spring Boot** and **clean architecture** patterns to round out my JVM backend toolkit.
 - Exploring **native macOS tooling** and **on-device AI** workflows for productivity software.
 

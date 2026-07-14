@@ -73,6 +73,7 @@ My work spans cloud platforms, mobile apps, IoT firmware, and increasingly on-de
 
 A lightweight macOS daemon that records Microsoft Teams meetings, transcribes them locally with Whisper, and produces structured summaries via Claude or Ollama — fully offline-capable. Includes speaker diarisation, Notion / Obsidian export, and a clean YAML schema for downstream tooling.
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square)
